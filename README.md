@@ -48,7 +48,7 @@ python app.py
 
 ### 6️⃣ Access the App in Your Browser  
 ```
-http://127.0.0.1:5000  
+http://127.0.0.1:8000
 ```
 ## Demo
 
